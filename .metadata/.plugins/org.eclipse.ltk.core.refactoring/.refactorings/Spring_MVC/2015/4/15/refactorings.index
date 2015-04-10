@@ -1,0 +1,10 @@
+1428691604463	Move 'servlet.xml' to 'WEB-INF'
+1428691731003	Rename resource 'servlet.xml'
+1428692377384	Delete element
+1428693569026	Rename package 'com.techies.controller'
+1428693592074	Rename resource 'techies-servlet.xml'
+1428694887045	Move 'welcome.jsp' to 'jsp'
+1428694901875	Move 'index.jsp' to 'WebContent'
+1428694967614	Rename package 'com.crunchify.controller'
+1428695028508	Rename resource 'crunchify-servlet.xml'
+1428695219006	Rename type 'CrunchifyHelloWorld'

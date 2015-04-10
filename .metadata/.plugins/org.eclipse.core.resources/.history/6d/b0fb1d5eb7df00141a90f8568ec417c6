@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="sprint">
+        <property name="context-root" value="sprint"/>
+        <property name="java-output-path" value="/sprint/build/classes"/>
+    </wb-module>
+</project-modules>
