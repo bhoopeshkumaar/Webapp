@@ -17,4 +17,8 @@ http://www.springframework.org/schema/context/spring-context-4.0.xsd">
 		<property name="prefix" value="/WEB-INF/jsp/" />
 		<property name="suffix" value=".jsp" />
 	</bean>
+	
+	<bean id="beanExample" class="com.techies.controller.BeanExample" scope= "prototype">
+	    <property name="message" value="Trying out simple bean example"/>
+	</bean>
 </beans>

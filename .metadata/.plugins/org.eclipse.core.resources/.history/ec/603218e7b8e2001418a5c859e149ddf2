@@ -1,0 +1,9 @@
+package com.techies.controller;
+
+public class BeanExample {
+	
+	public String print(){
+		return "Printing a string";		
+	}
+
+}
