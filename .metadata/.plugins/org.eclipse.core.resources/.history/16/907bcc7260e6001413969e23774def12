@@ -1,0 +1,18 @@
+package com.hibernate.launcher;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.hibernate.dao.PersonDAO;
+import com.hibernate.pojo.Person;
+ 
+public class SpringHibernateMain {
+
+	@Autowired
+	private PersonDAO personDAO;
+  
+   
+    
+    
+}
