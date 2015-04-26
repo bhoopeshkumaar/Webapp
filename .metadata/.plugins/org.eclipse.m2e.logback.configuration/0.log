@@ -5037,3 +5037,33 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 2015-04-25 21:55:48,104 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2015-04-25 21:55:48,104 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-04-25 21:55:48,105 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Webapp\Spring_mvc_hibernate1\src\test\resources
+2015-04-25 22:00:53,632 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.hibernate:Spring_mvc_hibernate1:0.0.1-SNAPSHOT @ E:\Webapp\Spring_mvc_hibernate\pom.xml.
+2015-04-25 22:00:54,025 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.hibernate:Spring_mvc_hibernate1:0.0.1-SNAPSHOT @ E:\Webapp\Spring_mvc_hibernate\pom.xml.
+2015-04-25 22:00:57,656 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-25 22:00:57,659 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-04-25 22:00:57,661 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-25 22:00:57,662 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Webapp\Spring_mvc_hibernate\src\test\resources
+2015-04-25 22:00:59,716 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.hibernate:Spring_mvc_hibernate1:0.0.1-SNAPSHOT @ E:\Webapp\Spring_mvc_hibernate\pom.xml.
+2015-04-25 22:01:00,601 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-25 22:01:00,604 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-04-25 22:01:00,607 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-25 22:01:00,608 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Webapp\Spring_mvc_hibernate\src\test\resources
+2015-04-25 22:01:03,581 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-25 22:01:03,584 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-25 22:01:03,585 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-25 22:01:03,585 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Webapp\Spring_mvc_hibernate\src\test\resources
+2015-04-25 22:05:50,927 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.hibernate:Spring_mvc_hibernate1:0.0.1-SNAPSHOT @ E:\Webapp\Spring_mvc_hibernate1\pom.xml.
+2015-04-25 22:05:51,361 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.hibernate:Spring_mvc_hibernate1:0.0.1-SNAPSHOT @ E:\Webapp\Spring_mvc_hibernate1\pom.xml.
+2015-04-25 22:05:54,275 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-25 22:05:54,278 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-04-25 22:05:54,280 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-25 22:05:54,280 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Webapp\Spring_mvc_hibernate1\src\test\resources
+2015-04-25 22:05:55,572 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.hibernate:Spring_mvc_hibernate1:0.0.1-SNAPSHOT @ E:\Webapp\Spring_mvc_hibernate1\pom.xml.
+2015-04-25 22:05:57,391 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-25 22:05:57,398 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-04-25 22:05:57,401 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-25 22:05:57,402 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Webapp\Spring_mvc_hibernate1\src\test\resources
+2015-04-25 22:05:59,031 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-25 22:05:59,033 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-25 22:05:59,034 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-25 22:05:59,035 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Webapp\Spring_mvc_hibernate1\src\test\resources

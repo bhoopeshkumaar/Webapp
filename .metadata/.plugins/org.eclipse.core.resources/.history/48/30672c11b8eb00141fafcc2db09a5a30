@@ -6,6 +6,6 @@
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/webapp"/>
         <property name="java-output-path" value="/Spring_mvc_hibernate1/target/classes"/>
-        <property name="context-root" value="Spring_mvc_hibernate1"/>
+        <property name="context-root" value="Spring_mvc_hibernate"/>
     </wb-module>
 </project-modules>

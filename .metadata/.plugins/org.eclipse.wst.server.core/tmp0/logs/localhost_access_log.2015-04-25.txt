@@ -5,3 +5,5 @@
 0:0:0:0:0:0:0:1 - - [25/Apr/2015:21:52:46 -0400] "GET /Spring_mvc_hibernate1/ HTTP/1.1" 200 306
 0:0:0:0:0:0:0:1 - - [25/Apr/2015:21:52:49 -0400] "GET /Spring_mvc_hibernate1/welcome HTTP/1.1" 200 371
 0:0:0:0:0:0:0:1 - - [25/Apr/2015:21:53:04 -0400] "GET /Spring_mvc_hibernate1/passValues?name=Bhoopesh&country=India HTTP/1.1" 200 288
+127.0.0.1 - - [25/Apr/2015:22:01:29 -0400] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [25/Apr/2015:22:01:30 -0400] "GET /Spring_mvc_hibernate/ HTTP/1.1" 200 306
