@@ -42,6 +42,7 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="Spring_mvc_hibernate1"/>
 			<item value="Sample"/>
 			<item value="HibernateStandalone"/>
 			<item value="Spring_mvc"/>
@@ -51,6 +52,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Spring_mvc_hibernate1"/>
 			<item value="Sample"/>
 			<item value="HibernateStandalone"/>
 			<item value="Spring_mvc"/>
@@ -77,14 +79,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.spring.hibernate.Spring_mvc_hibernate1"/>
+			<item value="Spring_mvc_hibernate1"/>
 			<item value="com.spring.mongo.HelloSpringWithMongoDB"/>
 			<item value="com.spring.hibernate.Spring_mvc_hibernate"/>
 		</list>
 		<list key="groupId">
-			<item value="com.spring.mongo"/>
 			<item value="com.spring.hibernate"/>
+			<item value="Spring_mvc_hibernate1"/>
+			<item value="com.spring.mongo"/>
 		</list>
 		<list key="artifactId">
+			<item value="Spring_mvc_hibernate1"/>
 			<item value="HelloSpringWithMongoDB"/>
 			<item value="Spring_mvc_hibernate"/>
 		</list>

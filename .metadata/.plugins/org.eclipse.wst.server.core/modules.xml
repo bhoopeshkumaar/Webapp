@@ -4,4 +4,5 @@
   <module moduleId="org.eclipse.jst.jee.server:Spring_MVC" serverId="Tomcat v7.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.j2ee.server:Spring_mvc_hibernate" serverId="Tomcat v7.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Spring_mvc_hibernate" serverId="Tomcat v7.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:Spring_mvc_hibernate1" serverId="Tomcat v7.0 Server at localhost"/>
 </modules>

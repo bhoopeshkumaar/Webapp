@@ -1,4 +1,7 @@
 package com.techies.controller;
+import java.util.HashMap;
+import java.util.Map;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -42,5 +45,19 @@ public class HelloController {
 		personImpl.persist(user, country);
 
 		return new ModelAndView("success", "user", user);
+	}
+	
+	@RequestMapping("/getLocations")
+	public ModelAndView sendLocations(){
+		
+		//we will populate this data from the DB
+		//using only sample co-ordinates
+		Map<String, String> latLngMap = new HashMap<String, String>();
+		latLngMap.put("Pithoragarh, Uttarakhand, India", "29.582861,80.218185");
+		latLngMap.put("Pipariya, Madhya Pradesh, India", "22.762886,78.352478");
+		latLngMap.put("Tiruvannamalai, Tamil Nadu, India", "12.228628,79.066544");
+		
+		 return new ModelAndView("showLocations", "latLngMap", latLngMap);
+		
 	}
 }
