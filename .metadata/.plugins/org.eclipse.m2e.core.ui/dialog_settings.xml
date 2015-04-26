@@ -42,6 +42,7 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="Sample"/>
 			<item value="HibernateStandalone"/>
 			<item value="Spring_mvc"/>
 			<item value="sprint"/>
@@ -50,6 +51,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Sample"/>
 			<item value="HibernateStandalone"/>
 			<item value="Spring_mvc"/>
 			<item value="sprint"/>
@@ -61,6 +63,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\Webapp\SpringHibernateMVC"/>
 			<item value="E:\Webapp\SpringHibernate\src\main\java\com\hibernate\dao\impl\PersonDAOImpl.java"/>
 			<item value="E:\Webapp\"/>
 		</list>
@@ -74,10 +77,16 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.spring.mongo.HelloSpringWithMongoDB"/>
+			<item value="com.spring.hibernate.Spring_mvc_hibernate"/>
 		</list>
 		<list key="groupId">
+			<item value="com.spring.mongo"/>
+			<item value="com.spring.hibernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="HelloSpringWithMongoDB"/>
+			<item value="Spring_mvc_hibernate"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

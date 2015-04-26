@@ -1,0 +1,5 @@
+package com.spring.mongo.model;
+
+public class Person {
+
+}

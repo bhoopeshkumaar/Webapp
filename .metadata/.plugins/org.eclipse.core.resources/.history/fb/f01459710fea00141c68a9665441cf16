@@ -1,0 +1,5 @@
+package com.spring.mongo.service;
+
+public class PersonService {
+
+}
